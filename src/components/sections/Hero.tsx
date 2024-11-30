@@ -67,7 +67,7 @@ const Hero = () => {
             <Button size="lg" className="bg-primary hover:bg-primary/90">
               無料カウンセリング予約
             </Button>
-            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white/20">
+            <Button size="lg" variant="outline" className="border-white hover:bg-white/20 text-white">
               詳しく見る
             </Button>
           </div>
