@@ -64,10 +64,14 @@ const Hero = () => {
             {slides[currentSlide].subtitle}
           </p>
           <div className="space-x-4 animate-fade-up" style={{ animationDelay: "0.4s" }}>
-            <Button size="lg" className="bg-primary hover:bg-primary/90">
+            <Button size="lg" className="bg-accent hover:bg-accent/90 text-white font-semibold">
               無料カウンセリング予約
             </Button>
-            <Button size="lg" variant="outline" className="border-white hover:bg-white/20 text-white">
+            <Button 
+              size="lg" 
+              variant="outline" 
+              className="border-2 border-white bg-white/10 hover:bg-white hover:text-black transition-colors text-white font-semibold"
+            >
               詳しく見る
             </Button>
           </div>
