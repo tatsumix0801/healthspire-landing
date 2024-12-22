@@ -4,25 +4,25 @@ import { ChevronLeft, ChevronRight, Star } from "lucide-react";
 const testimonials = [
   {
     name: "田中 美咲",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200&h=200",
+    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=200&h=200",
     text: "長年悩んでいた肩こりが改善され、毎日が快適になりました。先生の丁寧な説明と施術に感謝しています。",
     rating: 5,
   },
   {
     name: "鈴木 健一",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=200&h=200",
+    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200&h=200",
     text: "スポーツ障害の治療で通っていますが、的確なアドバイスのおかげでパフォーマンスが向上しました。",
     rating: 5,
   },
   {
     name: "佐藤 優子",
-    image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=200&h=200",
+    image: "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?auto=format&fit=crop&q=80&w=200&h=200",
     text: "産後の骨盤矯正で通院しています。体の変化を実感でき、育児の体力面でも助かっています。",
     rating: 5,
   },
   {
     name: "山田 太郎",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200&h=200",
+    image: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&fit=crop&q=80&w=200&h=200",
     text: "デスクワークによる腰痛が改善され、仕事に集中できるようになりました。定期的なメンテナンスで調子も良好です。",
     rating: 5,
   },

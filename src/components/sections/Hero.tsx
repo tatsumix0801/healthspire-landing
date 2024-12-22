@@ -4,17 +4,17 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const slides = [
   {
-    image: "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1920",
+    image: "https://images.unsplash.com/photo-1604684768394-52a862c2955a?auto=format&fit=crop&w=1920",
     title: "あなたの健康を\n最優先に考える",
     subtitle: "最新の技術と確かな技術で、心地よい毎日をサポートします",
   },
   {
-    image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1920",
+    image: "https://images.unsplash.com/photo-1591343395902-1adcb454c4e2?auto=format&fit=crop&w=1920",
     title: "痛みのない\n生活を目指して",
     subtitle: "一人ひとりに合わせた治療プランで根本的な改善を",
   },
   {
-    image: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1920",
+    image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1920",
     title: "プロフェッショナルな\n施術をお約束",
     subtitle: "経験豊富なスタッフが丁寧に対応いたします",
   },
